@@ -1,0 +1,15 @@
+sentence-transformers
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.32
+langchain-huggingface
+langchain-groq
+groq
+faiss-cpu
+chromadb
+streamlit
+python-dotenv
+pypdf
+rank_bm25
+neo4j
+sqlalchemy
