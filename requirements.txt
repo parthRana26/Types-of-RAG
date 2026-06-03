@@ -13,3 +13,7 @@ pypdf
 rank_bm25
 neo4j
 sqlalchemy
+langgraph
+langchain-chroma
+ipykernel
+ddgs
