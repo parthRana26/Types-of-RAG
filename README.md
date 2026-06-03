@@ -20,6 +20,7 @@ Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by co
 - ✅ Hybrid + Graph RAG  
 - ✅ SQL RAG  
 - ✅ Reasoning-Based RAG (CoT-based)
+- - ✅ Self RAG
 
 ---
 
@@ -38,6 +39,7 @@ RAG/
 ├── Multi_Query_RAG.py
 ├── Parent_Document_Retrieval_RAG.py
 ├── Reasoning_Based_RAG.py
+├── self_RAG.ipynb
 │
 ├── create_db.py
 ├── company.db
@@ -59,6 +61,7 @@ RAG/
 - 🗄️ SQLite (for SQL RAG)  
 - 🧠 Vector Databases (FAISS / others)  
 - 🔗 Neo4j (for Graph RAG)
+- 🔗 DDGS (DuckDuckGoSearch) Web Search
 
 ---
 
