@@ -17,3 +17,4 @@ langgraph
 langchain-chroma
 ipykernel
 ddgs
+tavily-python
