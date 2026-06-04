@@ -102,9 +102,6 @@ pip install -r requirements.txt
 ```
 
 
-Use this cleaner version:
-
-:::writing{variant="document" id="58371"}
 ### 4️⃣ Setup Environment Variables
 
 Create a `.env` file from the provided template:
