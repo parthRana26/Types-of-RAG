@@ -101,10 +101,16 @@ source rag_venv/bin/activate   # Windows: rag_venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+
+Use this cleaner version:
+
+:::writing{variant="document" id="58371"}
 ### 4️⃣ Setup Environment Variables
-Create a `.env` file:
-```
-GROQ_API_KEY=your_api_key_here
+
+Create a `.env` file from the provided template:
+
+```bash
+cp .env.example .env.example in .env
 ```
 
 ---
