@@ -23,6 +23,7 @@ Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by co
 - ✅ Self RAG
 - ✅ Corrective RAG
 - ✅ Adaptive RAG
+- ✅ Agentic RAG
 
 ---
 
@@ -44,6 +45,7 @@ RAG/
 ├── self_RAG.ipynb
 ├── corrective_RAG.ipynb
 ├── Adaptive_RAG.ipynb
+├── Agentic_RAG.ipynb
 │
 ├── create_db.py
 ├── company.db
