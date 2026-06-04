@@ -20,7 +20,9 @@ Retrieval-Augmented Generation (RAG) enhances Large Language Models (LLMs) by co
 - ✅ Hybrid + Graph RAG  
 - ✅ SQL RAG  
 - ✅ Reasoning-Based RAG (CoT-based)
-- - ✅ Self RAG
+- ✅ Self RAG
+- ✅ Corrective RAG
+- ✅ Adaptive RAG
 
 ---
 
@@ -40,6 +42,8 @@ RAG/
 ├── Parent_Document_Retrieval_RAG.py
 ├── Reasoning_Based_RAG.py
 ├── self_RAG.ipynb
+├── corrective_RAG.ipynb
+├── Adaptive_RAG.ipynb
 │
 ├── create_db.py
 ├── company.db
@@ -62,6 +66,7 @@ RAG/
 - 🧠 Vector Databases (FAISS / others)  
 - 🔗 Neo4j (for Graph RAG)
 - 🔗 DDGS (DuckDuckGoSearch) Web Search
+- 🔗 Tavily Web Search
 
 ---
 
